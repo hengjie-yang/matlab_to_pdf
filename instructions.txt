@@ -1,0 +1,4 @@
+Step 1: set(gcf,'Color','none')
+Step 2: navigate to the matlab_to_pdf folder
+Step 3: export_fig (file_name).pdf -pdf -transparent
+Step 4: copy the generated pdf to the place you want
